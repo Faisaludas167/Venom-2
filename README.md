@@ -1,11 +1,11 @@
-# VENOM-2
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# Faisal udas-2
+   <a><img src='https://telegra.ph/file/f650e6207c9b990a69e4a.jpg'/></a><a><img src='https://telegra.ph/file/f650e6207c9b990a69e4a.jpg'/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src="https://telegra.ph/file/f650e6207c9b990a69e4a.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Faisal+2_____;WHATSAPP+udas+x+Muskan+BOT;DEVELOPED+BY+Faisal+muskan;love 💕 muskan+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/f650e6207c9b990a69e4a.jpg'/></a><a><img src='https://telegra.ph/file/f650e6207c9b990a69e4a.jpg'/></a>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
