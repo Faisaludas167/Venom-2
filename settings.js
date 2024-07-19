@@ -11,8 +11,8 @@ global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '923037484167,923037484167,923112657705'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownername = 'Faisal udas' //owner name
+global.botname = '🕷Faisal-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'faisal udas'
@@ -34,7 +34,7 @@ global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti92 = false //auto block +92 
+global.anti994= true//auto block +994
 global.autoswview = true //auto view status/story
 
 //menu type 
